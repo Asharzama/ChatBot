@@ -1,0 +1,1 @@
+D:\pixonix\MDMApp\ChatBot\ChatBot\ChatBot.csproj;x64
